@@ -1,0 +1,45 @@
+🚀 NIFTY50 Stock Market Analysis (2023–2025)
+End-to-end Data Analytics Project using SQL, Python, and Power BI
+
+📊 Project Overview
+This project presents an in-depth analysis of NIFTY50 stock market data (2023–2025) using a combination of SQL (MySQL) for data querying, Python for data manipulation and analysis, and Power BI for interactive dashboards and data storytelling. The dataset contains 40,250+ records across various sectors including Finance, Energy, Automobile, and Consumer Goods.
+
+🧰 Tech Stack & Tools
+SQL (MySQL) – Data cleaning, aggregation, and exploratory queries
+
+Python – Data preprocessing and visualization using Pandas, Matplotlib, and Seaborn
+
+Power BI – Real-time dashboards, KPIs, and sectoral analysis
+
+Jupyter Notebook – For code execution and documentation
+
+Power BI Service – For publishing and sharing interactive dashboards
+
+🔍 Key Features & Analysis
+✅ Extracted and cleaned stock data using SELECT, JOIN, and filters in SQL
+
+📊 Performed trend and sectoral analysis using GROUP BY, ORDER BY, and aggregation functions
+
+📈 Built visualizations in Python to highlight stock price patterns, gainers/losers, and market trends
+
+📡 Designed interactive Power BI dashboards with slicers, filters, and KPI indicators
+
+💡 Delivered insights such as:
+
+Top 5 stocks by Market Capitalization
+
+Sector-wise performance comparison
+
+Correlation between trading volume and stock price movement
+
+💼 Business Impact
+This project transforms raw financial data into actionable insights for investors and decision-makers. It demonstrates my ability to combine data engineering, analysis, and visualization to solve real-world business problems in the finance domain.
+
+🔗 Live Dashboard / Notebook
+Power BI Dashboard (if published): [Add Power BI link here]
+
+Python Notebook: nifty50_analysis.ipynb
+
+📌 Keywords & Hashtags
+#DataAnalytics #SQL #Python #PowerBI #StockMarketAnalysis #FinancialData #NIFTY50 #MySQL #BusinessIntelligence #DataVisualization
+
